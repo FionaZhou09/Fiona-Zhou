@@ -1,67 +1,71 @@
-# 👋 Hi, I'm Fiona Zhou!
+ # Hi,👋 I'm Fiona Zhou
 
-Welcome to my GitHub profile. I build practical AI systems, intelligent web applications, and data-driven products across healthcare, scientific computing, and community platforms.
+I build practical AI systems, intelligent web applications, and data-driven products across healthcare, scientific computing, community platforms, and personal productivity.
 
-My background combines a Ph.D. in Fiber & Polymer Science with applied machine learning, full-stack development, and human-centered product design. I’m particularly interested in transforming complex workflows and research-driven ideas into intuitive, real-world tools.
+My background combines a Ph.D. in Fiber & Polymer Science with applied machine learning, full-stack development, and human-centered product design. I am currently pursuing an M.S. in Computer Science at Georgia Tech, with an expected program timeline of August 2025 to July 2027.
 
----
+I am especially interested in transforming complex workflows and research-driven ideas into intuitive, real-world tools.
 
 ## 🔗 Links
-- [LinkedIn](https://linkedin.com/in/yzhou09)
-- [GitHub](https://github.com/Ying-Fiona-Zhou)
-- [ORCID](https://orcid.org/0000-0002-3727-2128)
-- [Professional Website](https://ying-fiona-zhou.github.io/)
 
----
+- Professional Website: [fionazhou09.github.io](https://fionazhou09.github.io/)
+- LinkedIn: [linkedin.com/in/yzhou09](https://linkedin.com/in/yzhou09)
+- GitHub: [github.com/FionaZhou09](https://github.com/FionaZhou09)
+- ORCID: [0000-0002-3727-2128](https://orcid.org/0000-0002-3727-2128)
+- Email: [ying6.zhou@gmail.com](mailto:ying6.zhou@gmail.com)
 
-## 🔬 Research & Professional Focus
+## 🔬 Current Focus
 
-- **Machine Learning for R&D Applications**: I specialize in applying supervised and unsupervised learning techniques, including predictive and generative models, to accelerate research and development processes.
-- **Computational Modeling**: From nanoparticle growth predictions to biosensor development, I’ve worked on projects that blend data science with cutting-edge scientific research.
-- **Data-Driven Decision Making**: I’m proficient in leveraging data to drive insights and decisions, with experience in **Python**, **SQL**, and **data visualization** tools like Tableau.
+- **Graduate study:** Georgia Tech M.S. in Computer Science, August 2025 - July 2027.
+- **Applied machine learning:** predictive modeling, time-series analysis, classification, feature engineering, and explainable analytics.
+- **Healthcare and biosignal data:** ECG monitoring demos, risk-state interfaces, and clinician/patient-facing explanations.
+- **Community web products:** local guides and lightweight public-interest tools, including EdisonMom.
+- **Scientific computing:** nanomaterials, smart textiles, bio-detection, and materials modeling.
 
+## 🧬 Featured Projects
 
----
+### 🔹 EdisonMom / Edison Chinese Family Life Guide
 
-## 🧪 Scientific & Machine Learning Tools
-- **Python**: Data analysis, machine learning
-- **Scikit-learn/TensorFlow/PyTorch**: Machine learning frameworks
-- **Tableau/Matplotlib**: Data visualization
-- **AWS**: Cloud computing for scalable data solutions
-- **Hadoop/Spark**: Big data tools for distributed computing
+A mobile-first local information website for Chinese-speaking families in Edison, NJ, organizing schools, activities, food, life services, events, and community resources.
 
----
+- Live site: [edisonmom.com](https://edisonmom.com/)
 
-## 💻 Code Development
-### Languages
-- **Python**: Numerical data analysis and machine learning
-- **SQL**: Database management
-- **R**: Statistical computing
-- **LaTeX**: Scientific documentation
+### 🔹 Real-time ECG Monitor
 
-### Tools
-- **Git**: Version control
-- **Docker**: Containerization for reproducible environments
-- **SSH**: Remote development and server management
-- **Visual Studio Code**: Code editor
+An interactive healthcare data demo combining ECG replay, Pan-Tompkins QRS detection, risk-state visualization, and AG2 multi-agent clinical explanation.
 
----
+- Live demo: [ecag2.netlify.app](https://ecag2.netlify.app/)
+- Repository: [ECAG2](https://github.com/FionaZhou09/ECAG2)
 
-## 🧬 Machine Learning Projects
+### 🔹 Future Baby Names Prediction
 
-### 🔹 [Gold Nanoparticle Size and Surface Prediction](https://github.com/Ying-Fiona-Zhou/Au_Nanoparticle_Structural_Features_Model)
-Using Random Forest and Gradient Boosting, this project predicts the size and surface properties of gold nanoparticles with high accuracy. Feature importance analysis highlights key factors influencing nanoparticle growth.
+A machine learning capstone project analyzing U.S. baby-name trends from 1952 to 2023. The project uses time-series analysis, clustering, and feature engineering to explore demographic and cultural shifts.
 
-### 🔹 [Future Baby Names Prediction](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName_New)
-A machine learning model developed using logistic regression to predict future baby name trends, applying time series analysis and clustering to provide insights into demographic shifts.
+- Live app: [babynamesprediction.streamlit.app](https://babynamesprediction.streamlit.app/)
+- Repository: [Capstone_BabyName](https://github.com/FionaZhou09/Capstone_BabyName)
 
-Feel free to explore my repositories and connect with me on LinkedIn!
+### 🔹 Gold Nanoparticle Size and Surface Prediction
 
-## 📫 How to Reach Me
+A scientific machine learning project using Random Forest and Gradient Boosting to predict gold nanoparticle size and surface properties. Feature importance analysis highlights key factors influencing nanoparticle growth.
 
-- **Email**: [ying6.zhou@gmail.com](mailto:ying6.zhou@gmail.com)
-- **LinkedIn**: [https://linkedin.com/in/yzhou09](https://linkedin.com/in/yzhou09)
-- **GitHub**: [https://github.com/Ying-Fiona-Zhou](https://github.com/Ying-Fiona-Zhou)
-- **Professional Website**:[https://ying-fiona-zhou.github.io/](https://ying-fiona-zhou.github.io/)
+- Repository: [Au_Nanoparticle_Structural_Features_Model](https://github.com/FionaZhou09/Au_Nanoparticle_Structural_Features_Model)
 
+## 💻 Technical Toolkit
+
+- **Languages:** Python, JavaScript, HTML/CSS, SQL, R, LaTeX
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, feature engineering, model evaluation
+- **Data Science:** Pandas, NumPy, SciPy, time-series analysis, clustering, classification
+- **Visualization:** Matplotlib, Seaborn, Tableau, dashboard storytelling
+- **Web and Deployment:** Streamlit, Netlify, GitHub Pages
+- **Development Tools:** Git, GitHub, Docker, SSH, VS Code
+
+## 🧪 Research Background
+
+I hold a Ph.D. from North Carolina State University, where I worked on materials science, smart textiles, bio-detection, and computational modeling. My research and product work share the same goal: making complex technical information clearer, more useful, and more accessible to real people.
+
+## Contact
+
+- Email: [ying6.zhou@gmail.com](mailto:ying6.zhou@gmail.com)
+- LinkedIn: [linkedin.com/in/yzhou09](https://linkedin.com/in/yzhou09)
+- Website: [fionazhou09.github.io](https://fionazhou09.github.io/)
 
